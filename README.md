@@ -1,8 +1,8 @@
 # Employee Management Portal
 
 A web-based Employee Management Portal
-developed using GraphQL architecture
-for managing employee information.
+developed as part of a Git and GitHub
+practical assignment.
 
 ## Features
 - Employee Registration
