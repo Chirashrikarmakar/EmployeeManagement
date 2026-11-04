@@ -1,8 +1,8 @@
 # Employee Management Portal
 
 A web-based Employee Management Portal
-developed as part of a Git and GitHub
-practical assignment.
+developed using REST API architecture
+for managing employee information.
 
 ## Features
 - Employee Registration
