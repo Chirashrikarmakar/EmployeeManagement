@@ -13,3 +13,12 @@ practical assignment.
 - Flask
 - HTML
 - Git and GitHub
+## Employee Details
+
+The portal manages employee information.
+
+### Available Operations
+- Add Employee
+- View Employee
+- Update Employee
+- Delete Employees
